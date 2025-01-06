@@ -2,11 +2,10 @@
 A lightweight web application for creating and managing personal notes built with Flask. Users can create, edit, and delete their digital notes in a clean, minimalist interface.
 
 ## Features
-- Simple note creation and editing
+- Simple note creation and deletion
 - Markdown support for rich text formatting
 - User authentication
 - Responsive design
-- Search functionality
 
 ## Tech Stack
 - Flask
